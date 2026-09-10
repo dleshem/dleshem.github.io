@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://dannyleshem.com/</loc>
-    <lastmod>2026-09-10T16:05:00Z</lastmod>
+    <lastmod>2026-09-10T17:00:00Z</lastmod>
   </url>
   <url>
     <loc>https://dannyleshem.com/startups.html</loc>
@@ -18,6 +18,10 @@
   </url>
   <url>
     <loc>https://dannyleshem.com/archive/x-2026-08-28.zip</loc>
+    <lastmod>2026-09-10T17:00:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dannyleshem.com/archive/blogger-2026-09-10.zip</loc>
     <lastmod>2026-09-10T17:00:00Z</lastmod>
   </url>
 </urlset>
